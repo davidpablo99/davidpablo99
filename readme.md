@@ -1,9 +1,9 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <img src="https://komarev.com/ghpvc/?username=davidpablo99&color=yellow" alt="Profile views" /> 
 
-🧑🏻‍💻 I'm Junior FullStack Developer
+🧑🏻‍💻 I'm a Junior FullStack Developer
 
-🦅 I'm Member of Brazilian army
+🦅 I'm a Member of Brazilian army
 
 <br/>
 
