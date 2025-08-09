@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">🧑🏻‍💻 I am a Fullstack Developer with 2 years of experience as a freelancer, where I worked on diverse, challenging, and dynamic projects. My expertise includes building and optimizing systems, implementing APIs, and integrating with databases.</p>
+<p align="left">Formado em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de aplicações Full Stack modernas, escaláveis e de alta performance. Tenho experiência na construção de interfaces responsivas e UX/UI modernas, implementação de APIs REST, integração com bancos de dados relacionais e não relacionais, e aplicação de boas práticas de arquitetura como SOLID e Clean Architecture.
+
+Sou também fundador de dois SaaS em operação:
+🚀 FastRoom – Plataforma para gestão e reservas no setor de hotelaria
+⚡ SpeedPDV – Sistema de gestão e vendas para pequenos negócios</p>
 
 ###
 
